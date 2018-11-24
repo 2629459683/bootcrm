@@ -1,0 +1,52 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : com.dnsoft : bootcrm-1.0-SNAPSHOT.war (exploded)">
+    <output-path>$PROJECT_DIR$/build/libs/exploded/bootcrm-1.0-SNAPSHOT.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$">
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/libs/exploded/bootcrm-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="bootcrm_main/web/Web Gradle : bootcrm-1.0-SNAPSHOT.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="bootcrm_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/out/production/resources" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-dbcp2/2.1.1/c4f4a76171671ccf293be8995a498eab7fa8ed24/commons-dbcp2-2.1.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.3.12.RELEASE/5c840abbdc1a1dfd0f79c4a4c25eac0c98e6af22/spring-jdbc-4.3.12.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.3.12.RELEASE/7147b6839b2bf9db3621b79c73b4dddbe69572b6/spring-tx-4.3.12.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.3.6.RELEASE/ea55690d6d61ad70e2569db1e1add1603e427862/spring-webmvc-4.3.6.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.6.RELEASE/8b8bf8fc6ed4acd5ae0baa6179f1cccc52aaa9aa/spring-web-4.3.6.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.12.RELEASE/5e6d26f36636f36b7efec1d6a0c5991284fbd95b/spring-context-4.3.12.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.3.12.RELEASE/b3fef085902993c2ef874c45c7bfd79296d5a5a4/spring-aop-4.3.12.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.12.RELEASE/547dd432d47d0f01d9ccbedc4b705f9f7c1240a/spring-beans-4.3.12.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.3.12.RELEASE/790f69f6ad7f9da8d4a92c603ad7244c398c8309/spring-expression-4.3.12.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.12.RELEASE/4cebc69478c6d350dbd5af28e3db7d5694f416e3/spring-core-4.3.12.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.4.5/5200759b13f70652995fd206a52fdc98b01c65cd/mybatis-3.4.5.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.8/ca016d1d4f48d7aa2b6ea75639d53b124ad189a8/mysql-connector-java-5.1.8.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.10.0/c90b597163cd28ab6d9687edd53db601b6ea75a1/log4j-core-2.10.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.10.0/fec5797a55b786184a537abd39c3fa1449d752d6/log4j-api-2.10.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis-spring/1.3.1/5197169e15a43066f177a1cd12a098e1283fdc76/mybatis-spring-1.3.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet.jsp.jstl/jstl/1.2/7a93a178d5599db1321a9e5ff927b4ed015b68d8/jstl-1.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.taglibs/taglibs-standard-impl/1.2.5/9b9783ccb2a323383e6e20e36d368f8997b71967/taglibs-standard-impl-1.2.5.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.web/jstl-impl/1.2/611c12c6b993586852685f410658924b219ca326/jstl-impl-1.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet.jsp.jstl/jstl-api/1.2/f9a034c1ca1f79c03bb461805a688f944544d138/jstl-api-1.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/5fe28b9518e58819180a43a850fbc0dd24b7c050/commons-lang3-3.4.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.6/c43de61f74ecc61322ef8f402837ba65b0aa2bf4/jackson-databind-2.8.6.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.6/2ef7b1cc34de149600f5e75bc2d5bf40de894e60/jackson-core-2.8.6.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.6/9577018f9ce3636a2e1cb0a0c7fe915e5098ded5/jackson-annotations-2.8.6.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-pool2/2.4.2/e5f4f28f19d57716fbc3989d7a357ebf1e454fea/commons-pool2-2.4.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/servlet-api/2.5/5959582d97d8b61f4d154ca9e495aafd16726e34/servlet-api-2.5.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet.jsp/jsp-api/2.1/63f943103f250ef1f3a4d5e94d145a0f961f5316/jsp-api-2.1.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
